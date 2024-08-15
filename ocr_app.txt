@@ -1,0 +1,3 @@
+$echo
+"C:\Users\USER\AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\USER\Documents\Lifebuoy_Green\main_gui.py"
+pause

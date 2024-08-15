@@ -1,0 +1,8 @@
+adaptor.cpp
+built.py
+include/clipper/clipper.cpp
+include/clipper/clipper.cpp
+lanms.egg-info/PKG-INFO
+lanms.egg-info/SOURCES.txt
+lanms.egg-info/dependency_links.txt
+lanms.egg-info/top_level.txt
